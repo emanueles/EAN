@@ -1,0 +1,29 @@
+﻿N,Estado Civil,Grau de Instrução,N de Filhos,Idade Anos,Idade Meses,Região de Procedência,Salario (x Sal Min)
+1,casado,ensino fundamental,4,40,6,interior,1.50
+2,casado,ensino médio,,30,5,interior,9.30
+3,solteiro,superior,,43,4,capital,25.30
+4,casado,ensino médio,1,30,9,outra,9.00
+5,solteiro,superior,,25,8,interior,10.00
+6,solteiro,ensino médio,,41,0,outra,10.00
+7,casado,superior,2,33,6,interior,25.30
+8,casado,superior,2,33,6,interior,25.30
+9,casado,ensino fundamental,0,26,1,outra,1.50
+10,casado,superior,3,42,2,interior,15.00
+11,casado,superior,,26,1,outra,14.00
+12,casado,superior,2,36,5,capital,13.00
+13,solteiro,ensino médio,,34,2,capital,8.00
+14,casado,ensino fundamental,1,32,10,capital,1.50
+15,casado,superior,,26,1,outra,17.00
+16,casado,ensino médio,2,35,10,capital,6.00
+17,casado,ensino fundamental,1,32,10,capital,2.00
+18,casado,ensino médio,1,30,9,outra,9.00
+19,casado,ensino fundamental,3,43,7,capital,4.00
+20,solteiro,superior,,27,11,capital,11.00
+21,solteiro,ensino médio,,34,2,capital,5.00
+22,casado,ensino médio,2,32,5,interior,8.00
+23,solteiro,ensino fundamental,,46,7,outra,1.50
+24,casado,superior,,29,8,interior,28.50
+25,solteiro,ensino médio,,38,8,outra,8.00
+26,casado,superior,,30,5,interior,25.30
+27,casado,ensino fundamental,2,36,5,capital,3.00
+28,solteiro,superior,,41,0,interior,14.30
