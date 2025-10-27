@@ -1,4 +1,4 @@
-﻿Company,Morningstar Rating (Number of Stars) ,Business Risk
+﻿Company,Star Rating,Business Risk
 Ameren Corp,3,Average
 Apple Inc,4,Average
 At&T Inc,2,Average
@@ -38,4 +38,5 @@ Stifel Financial Corp.,3,Above Average
 United Technologies Corp,4,Average
 "Weight Watchers International, Inc.",4,Above Average
 WR Berkley Corp,4,Average
+
 Yum Brands Inc,3,Average
